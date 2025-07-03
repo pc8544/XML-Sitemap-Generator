@@ -1,6 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
 package wc;
 
 import java.io.BufferedWriter;
@@ -14,6 +11,7 @@ import javax.swing.SwingUtilities;
 /**
  *
  * @author Pramod
+ * Founder: https://websitecrawler.org
  */
 public class WCXMSitemapGenerator {
 

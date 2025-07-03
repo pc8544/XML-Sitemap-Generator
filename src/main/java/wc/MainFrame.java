@@ -18,7 +18,8 @@ import org.json.JSONObject;
 
 /**
  *
- * @author Pramod Founder: https://www.websitecrawler.org
+ * @author Pramod 
+ * Founder: https://www.websitecrawler.org
  */
 public class MainFrame extends javax.swing.JFrame {
 
