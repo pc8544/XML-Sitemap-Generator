@@ -1,6 +1,6 @@
 # 🗺️ XML Sitemap Generator
 
-This repository showcases the functionality of the [Website-Crawler API](https://github.com/pc8544/Website-Crawler) by generating comprehensive XML sitemaps from any public website. Built as a desktop Java application, it demonstrates how developers can leverage web crawling APIs to automate SEO tasks, scraping and website indexing.
+This repository showcases the functionality of the [Website-Crawler API](https://github.com/pc8544/Website-Crawler) of [Website Crawler](https://www.websitecrawler.org) by generating comprehensive XML sitemaps from any public website. Built as a desktop Java application, it demonstrates how developers can leverage web crawling APIs to automate SEO tasks, scraping and website indexing.
 
 ## 🚀 Features
 
