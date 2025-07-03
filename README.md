@@ -9,3 +9,16 @@ This repository showcases the functionality of the [Website-Crawler API](https:/
 - 🧠 Filters and deduplicates links for clean sitemap generation
 - 📄 Generates a file in standard XML sitemap format, compatible with search engines
 - 🖥️ User-friendly
+
+## ▶️ How to Download and Run the `.jar` File
+
+### 📥 Step 1: Download
+
+1. Go to the [`main` branch](https://github.com/pc8544/XML-Sitemap-Generator/tree/main)
+2. Locate and download the `.jar` file (e.g. `WCXMLSitemapGenerator-1.0.jar`)
+
+### 🏃‍♂️ Step 2: Run It
+
+#### On Windows:
+```bash
+java -jar WCXMSitemapGenerator.jar
