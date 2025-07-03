@@ -22,7 +22,7 @@ This repository showcases the functionality of the [Website-Crawler API](https:/
 #### On Windows:
 ```bash
 java -jar WCXMLSitemapGenerator-1.0.jar
-
+```
 
 ### 📸 Screenshot: XML Sitemap Generator in Action
 ![Sitemap Generator Screenshot](https://github.com/pc8544/XML-Sitemap-Generator/blob/main/jar%20screen1.jpg)
