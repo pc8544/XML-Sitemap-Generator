@@ -21,4 +21,4 @@ This repository showcases the functionality of the [Website-Crawler API](https:/
 
 #### On Windows:
 ```bash
-java -jar WCXMSitemapGenerator.jar
+java -jar WCXMLSitemapGenerator-1.0.jar
